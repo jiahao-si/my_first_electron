@@ -1,0 +1,16 @@
+{
+  "name": "plain-poison-find-9c61l",
+  "productName": "plain-poison-find-9c61l",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "jiahao.si",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "19.0.6"
+  }
+}
