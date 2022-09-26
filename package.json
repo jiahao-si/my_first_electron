@@ -1,6 +1,6 @@
 {
-  "name": "plain-poison-find-9c61l",
-  "productName": "plain-poison-find-9c61l",
+  "name": "my_first_electron_app",
+  "productName": "my_first_electron_app",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
