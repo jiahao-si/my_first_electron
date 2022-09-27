@@ -11,6 +11,15 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "19.0.6"
-  }
+    "electron": "^19.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahao-si/my_first_electron.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiahao-si/my_first_electron/issues"
+  },
+  "homepage": "https://github.com/jiahao-si/my_first_electron#readme"
 }
